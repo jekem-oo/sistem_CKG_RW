@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Satu Data Kesehatan RW (CKG Terintegrasi)",
+  "description": "Aplikasi PWA Sistem Satu Data Cek Kesehatan Gratis (CKG) Terintegrasi RW dengan 5 Multi-User Role, QR Scanner, Early Warning System, Cetak Struk Thermal, dan Ekspor Excel.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
